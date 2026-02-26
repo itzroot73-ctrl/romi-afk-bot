@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "discord.js": "^14.25.1",
+    "dotenv": "^17.3.1",
+    "mineflayer": "^4.35.0",
+    "mineflayer-pathfinder": "^2.4.5",
+    "pathfinder": "^0.3.0-1",
+    "prismarine-block": "^1.22.0"
+  }
+}
